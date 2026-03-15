@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual env
+env/
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
