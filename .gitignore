@@ -4,8 +4,8 @@ __pycache__/
 *.pyo
 
 # virtual env
-env/
-
+.env/
+env_broken/
 # notebooks
 .ipynb_checkpoints/
 
